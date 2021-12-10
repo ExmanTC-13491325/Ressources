@@ -1,0 +1,4 @@
+SVG guidelines
+https://developer.mozilla.org/fr/docs/Web/Guide
+w3c vibration API
+https://fr.search.yahoo.com/search?fr=mcafee&type=E211FR885G0&p=w3c+vibration+API
